@@ -1,6 +1,10 @@
-OOP App Music Alura ONE 
-Que en Java, una clase puede heredar de solo una clase.
-El concepto de interfaces en Java.
-Que en una interfaz, todos los métodos son públicos, por lo que no es necesario usar la palabra reservada "public" en sus declaraciones.
-Que también es posible aplicar el polimorfismo mediante el uso de interfaces, de manera similar a lo que se demostró con la herencia en lecciones anteriores.
-Aplicar sus conocimientos en una aplicación de un sistema de audio/música, utilizando conceptos de orientación a objetos, encapsulamiento, herencia y polimorfismo.
+v# OOP App Music - Alura ONE
+
+## Descripción del Proyecto
+Este proyecto es parte del curso de Alura ONE y se enfoca en aplicar conceptos de **Programación Orientada a Objetos (OOP)** en Java. Desarrollamos una aplicación para simular un sistema de audio/música, utilizando **encapsulamiento**, **herencia** e **interfaces**.
+
+## Conceptos Clave
+
+### 1. Herencia
+En Java, una clase puede heredar de **una sola clase** (herencia simple). Esto significa que una clase hija (subclase) hereda atributos y métodos de su clase padre (superclase), permitiendo reutilizar código y establecer relaciones jerárquicas entre clases.
+
