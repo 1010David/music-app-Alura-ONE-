@@ -5,6 +5,15 @@ public class Podcast extends Audio {
     private String presenter;
     private String description;
 
+    @Override
+    public int getClasification() {
+        if (getTotalRproductions() >= 2000){
+            return 9;
+        } else {
+            return  2;
+        }
+    }
+
     public String getPresenter() {
         return presenter;
     }
